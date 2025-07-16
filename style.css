@@ -183,7 +183,7 @@ header {
 #hero{
     display: flex;
     flex-direction: column;
-    background-image: url("https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid&w=740");
+    background-image: url("img/background.png");
     background-size: cover;
     background-position: center;
     justify-content: center;
